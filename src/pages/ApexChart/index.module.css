@@ -1,0 +1,88 @@
+.view {
+    max-width: 1532px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+    padding-bottom: 244px;
+}
+
+.container{
+    background-color: #14161A;
+}
+
+.cryto_info {
+    width: 650px;
+    margin-bottom: 321px;
+}
+
+.cryto_info img {
+    width: 200px;
+    height: 200px;
+    margin-left: 140px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.cryto_info h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56.02px;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cryto_info p {
+    width: 430px;
+    margin-left: 25px;
+    text-align: left;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.15000000596046448px;
+    color: rgba(255, 255, 255, 1);
+}
+
+
+.cryto_info h3 {
+    margin-left: 25px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32.02px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.cryto_info h3 span {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32.02px;
+    color: rgba(255, 255, 255, 1);
+    margin-left: 13px;
+}
+.cryto_info h4 {
+    margin-left: 25px;
+    margin-bottom: 200px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32.02px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.cryto_info h4 span {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32.02px;
+    color: rgba(255, 255, 255, 1);
+    margin-left: 13px;
+}
+
+.apexchart {
+    width: 1100px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-left: 30px;
+}

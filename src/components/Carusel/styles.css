@@ -1,0 +1,87 @@
+.container_carusel {
+  background-image: url("../../assets/img.png");
+  background-size: 100%;
+  height: 400px;
+  padding-top: 54px;
+}
+
+.container_carusel h1 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: -0.5px;
+  text-align: center;
+  color: rgba(135, 206, 235, 1);
+}
+
+.container_carusel h5 {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21.98px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: center;
+  color: rgba(169, 169, 169, 1);
+  margin-bottom: 68px;
+}
+
+
+
+
+
+.swiper {
+  width: 1230px;
+  height: 187px;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+
+
+.swiper-slide div {
+  text-align: center;
+}
+
+.swiper-slide h3 {
+  background-color: transparent;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.75px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+.swiper-slide h2 {
+  background-color: transparent;
+  font-size: 21.48px;
+  font-weight: 500;
+  line-height: 25.18px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+
+.swiper-slide span {
+  background-color: transparent;
+  font-size: 15.75px;
+  font-weight: 500;
+  line-height: 18.46px;
+  color: rgba(14, 203, 129, 1);
+  margin-left: 5px;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  background-color: transparent;
+  margin-left: 14px;
+}
